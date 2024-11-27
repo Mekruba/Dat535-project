@@ -6,7 +6,8 @@ Magnus Egeland & Ninh Bao Truong
 Before proceeding, ensure you have access to the required dataset. You can download the dataset from Kaggle by following these steps:
 
 1. Visit the dataset page on Kaggle: [MyAnimeList Dataset](https://www.kaggle.com/datasets/dbdmobile/myanimelist-dataset).
-3. Download the dataset to your machine.
+2. Download the dataset to your machine.
+3. Remember to change filepath variable in the notebook to match your project setup.
 4. The Relevant files are from the dataset are `anime-dataset-2023.csv` and `users-score-2023.csv`
 
 ### Uploading Files to HDFS
