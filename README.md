@@ -21,7 +21,7 @@ Once the dataset is downloaded:
 
    # README: Handling Extreme Edge Cases for Parsing
 
-The  CSV dataset contains complex edge cases like improperly formatted fields with numeric values, such as `"1,200"` or `"1880,"`, it is important to manually pre-process these rows to ensure the parsing process works correctly. Follow the steps below to handle these scenarios.
+The  CSV dataset `anime-dataset-2023.csv` contains complex edge cases like improperly formatted fields with numeric values, such as `"1,200"` or `"1880,"`, it is important to manually pre-process these rows to ensure the parsing process works correctly. Follow the steps below to handle these scenarios.
 Please look at `fix.md` for better view of fixed string and what to search for.
 
 
