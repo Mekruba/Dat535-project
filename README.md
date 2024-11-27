@@ -1,5 +1,5 @@
 # DAT535 Project
-Magnus Egeland & Ninh Bau Truong
+Magnus Egeland & Ninh Bao Truong
 
 ## Prerequisites
 
