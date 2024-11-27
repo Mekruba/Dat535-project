@@ -34,12 +34,12 @@ Use find function to check on the anime id to find the faulty data.
 ### Line 1: `"1,200"` (in the synopsis field)
 
 - **Problem**: The value `1,200` is incorrectly interpreted as a numeric field instead of a string.
-- **Solution**: Add quotes around `1,200` to explicitly indicate it's part of the synopsis string.
+- **Solution**: Add quotes around `""1,200""` to explicitly indicate it's part of the synopsis string.
 
 ### Line 2: `"1880,"` (in the synopsis field)
 
 - **Problem**: The value `1880,` is split incorrectly because of the trailing comma, causing a parsing error.
-- **Solution**: Add quotes around `1880,` to ensure it’s treated as part of the synopsis string.
+- **Solution**: Add quotes around `""1880,""` to ensure it’s treated as part of the synopsis string.
 
 ---
 
