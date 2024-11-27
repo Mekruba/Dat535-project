@@ -4,6 +4,9 @@
 
 ""1,200"" years after this epic battle, Enno's descendant, Chiaki, spends her days showing tourists around her hometown of Shikigami-cho and doing exorcisms to pay the bills. One day, two thieves enter the town in hopes of opening a seal in the Ozuno temple and releasing the hidden treasure from within. However, what actually pops out is a dark entity that attaches itself to the henchmen, transforming them into demonic beings. After this transformation, they begin a rampage through the temple, terrorizing poor Chiaki.
 
+It is now up to this young progeny to unleash her family's powers to summon Zenki and save Shikigami-cho from these demons, as well as the evil entities sure to follow in their footsteps.",TV,51.0,"Jan 9, 1995 to Dec 25, 1995",winter 1995,Finished Airing,"TV Tokyo, Kitty Films, Yomiuri Advertising, K-Factory",Media Blasters,Studio Deen,Manga,24 min per ep,PG-13 - Teens 13 or older,4192.0,5321,29,5346.0,13647,https://cdn.myanimelist.net/images/anime/1014/98589.jpg
+
+
 # line 2
 1637,Kaze to Ki no Uta Sanctus: Sei Naru Kana,The Poem of Wind and Trees,風と木の詩　ＳＡＮＣＴＵＳ－聖なるかな－,6.84,"Boys Love, Drama, Romance","1887, at a remote, elite boarding school in France: Serge Battour returns after his graduation, and remembers the days of his youth...
 
